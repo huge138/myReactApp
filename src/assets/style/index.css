@@ -1,0 +1,19 @@
+body, html #root {
+    width: 100%;
+    min-width: 1400px;
+    height: 100%;
+}
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected {
+    background: #cc0303 !important;
+}
+
+.ant-input-number-focused {
+    border: #d9d9d9 solid 1px !important;
+    box-shadow: 0 0 !important;
+}
+
+@font-face {
+    font-family: huxiaobonanshen;
+    src: url('../../assets/font/huxiaobonanshen.otf');
+}
